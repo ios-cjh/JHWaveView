@@ -28,7 +28,7 @@
     
     // 添加顶部视图
     UIView *headerView = [[UIView alloc] initWithFrame:CGRectMake(0, 0, CGRectGetWidth(self.view.frame), 245)];
-    headerView.backgroundColor = [UIColor colorWithRed:164/255.f green:174/255.f blue:246/255.f alpha:1];
+    headerView.backgroundColor = [UIColor colorWithRed:255/255.f green:44/255.f blue:76/255.f alpha:1];
     self.tableView.tableHeaderView = headerView;
 }
 
