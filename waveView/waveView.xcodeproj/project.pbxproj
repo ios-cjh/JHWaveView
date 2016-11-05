@@ -106,6 +106,7 @@
 		073A2B9F1DC9D5AC00EEF017 /* waveView */ = {
 			isa = PBXGroup;
 			children = (
+				073A2BDE1DCDA79700EEF017 /* waveView.gif */,
 				073A2BA31DC9D5AC00EEF017 /* AppDelegate.h */,
 				073A2BA41DC9D5AC00EEF017 /* AppDelegate.m */,
 				073A2BA61DC9D5AC00EEF017 /* ViewController.h */,
@@ -124,7 +125,6 @@
 		073A2BA01DC9D5AC00EEF017 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
-				073A2BDE1DCDA79700EEF017 /* waveView.gif */,
 				073A2BA11DC9D5AC00EEF017 /* main.m */,
 			);
 			name = "Supporting Files";
