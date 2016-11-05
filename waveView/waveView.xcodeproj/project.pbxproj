@@ -86,7 +86,6 @@
 		073A2B941DC9D5AC00EEF017 = {
 			isa = PBXGroup;
 			children = (
-				073A2BDD1DCDA77700EEF017 /* picGIF */,
 				073A2B9F1DC9D5AC00EEF017 /* waveView */,
 				073A2BB91DC9D5AC00EEF017 /* waveViewTests */,
 				073A2BC41DC9D5AC00EEF017 /* waveViewUITests */,
@@ -107,6 +106,7 @@
 		073A2B9F1DC9D5AC00EEF017 /* waveView */ = {
 			isa = PBXGroup;
 			children = (
+				073A2BDD1DCDA77700EEF017 /* picGIF */,
 				073A2BA31DC9D5AC00EEF017 /* AppDelegate.h */,
 				073A2BA41DC9D5AC00EEF017 /* AppDelegate.m */,
 				073A2BA61DC9D5AC00EEF017 /* ViewController.h */,
@@ -154,6 +154,7 @@
 				073A2BDE1DCDA79700EEF017 /* waveView.gif */,
 			);
 			name = picGIF;
+			path = ..;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
